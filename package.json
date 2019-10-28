@@ -1,14 +1,14 @@
 {
   "name": "vlwf",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "Very Lightweight Web Framework",
+  "main": "lib/vlwf.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "m4d-d0x",
   "license": "ISC"
 }
